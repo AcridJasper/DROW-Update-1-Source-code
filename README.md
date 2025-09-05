@@ -1,4 +1,4 @@
-# DROW: Update 1 Source code for Killing Floor 2
+# DROW: Update 1 Source code for [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)
 
 the Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3433020997
 
